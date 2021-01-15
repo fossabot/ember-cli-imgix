@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fember-cli-imgix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fember-cli-imgix?ref=badge_shield)
 
 `ember-cli-imgix` is an add-on that provides custom components for integrating [imgix](https://www.imgix.com) into Ember sites.
 
@@ -378,3 +379,7 @@ Pretty simple:
 ```bash
 ember test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fember-cli-imgix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fember-cli-imgix?ref=badge_large)
